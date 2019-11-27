@@ -359,7 +359,7 @@ body {
   .height-20,
   .height-10 {
     height: auto;
-    padding: 4em 0;
+    padding: 16em 0;
   }
 }
 @media all and (min-height: 600px) and (min-width: 767px) {
